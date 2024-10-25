@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fadce6b7.css",
+    "main.js": "/static/js/main.d77371a1.js",
+    "static/media/kcsi.png": "/static/media/kcsi.816deeaec326c2c3669a.png",
+    "static/media/KS-SQI.png": "/static/media/KS-SQI.e2bedab3a84040dfe61c.png",
+    "static/media/kolsa.png": "/static/media/kolsa.e917025e83d04f2cabd8.png",
+    "static/media/ISMP-P.png": "/static/media/ISMP-P.daeb42d0146b2769c5bd.png",
+    "static/media/pcr.png": "/static/media/pcr.b0bcc4d4e6951da9dc6b.png",
+    "static/media/system.png": "/static/media/system.40ef6b1c0d1b78004f7d.png",
+    "static/media/logo.png": "/static/media/logo.75bbe4316cac70b06dee.png",
+    "static/media/ccm.png": "/static/media/ccm.a3fe8cce9984c548cf55.png",
+    "static/media/kats.png": "/static/media/kats.e52c3255d9a29c3f3acc.png",
+    "static/media/PaddedImage.png": "/static/media/PaddedImage.14f639cffdf784011f01.png",
+    "index.html": "/index.html",
+    "static/media/eye-slash.svg": "/static/media/eye-slash.e08cba147b4fc470fa6efe5866371074.svg",
+    "static/media/eye.svg": "/static/media/eye.7728ece04befd73c36e5a60cd1b35605.svg",
+    "main.fadce6b7.css.map": "/static/css/main.fadce6b7.css.map",
+    "main.d77371a1.js.map": "/static/js/main.d77371a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fadce6b7.css",
+    "static/js/main.d77371a1.js"
+  ]
+}
